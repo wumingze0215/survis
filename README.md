@@ -7,9 +7,9 @@ The visualization is built using [SurVis](https://github.com/fabian-beck/survis)
 
 ## 🔗 Live Visualization
 **Click here to view the interactive literature timeline and classification:**
-👉 [https://wumingze0215.github.io/survis/index.html](https://wumingze0215.github.io/survis/index.html)
+👉 [[https://wumingze0215.github.io/survis/index.html](https://wumingze0215.github.io/survis/index.html)
 
-## 📌 Research Domains Covered
+## 📌 Research Domains Covered](https://wumingze0215.github.io/survis/src/index.html)
 The literature is categorized into the following key domains:
 1. Digital Circuit & RTL Generation
 2. Netlist & Schematic Conversion
